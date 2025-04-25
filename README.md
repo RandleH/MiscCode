@@ -1,6 +1,6 @@
-# RandleH
+# MiscCode
 
-
+I feel boring when not coding. This repository was for code storage.
 
 <p align="center">
 <img src="./profile/randleh.bmp" width="400" height="240" border="10">
@@ -10,13 +10,7 @@
 
 
 
-## How to use
-
-Appearantly, this is not just my autobiography. This is a serious GitHub project that contains years of my efforts on embedded software development. I would like to share with you how useful it is and what is the best way to migrate on your own project.
-
-The idea behind this libraries is that they're easy to distribute and deploy because all the code is contained in a single file. Some may ask whether they are better somehow since some of these libraries seem redundant to existing open source libraries. Well, generally, they are only better in that they are easier to use and release.
-
-
+## Workspace Structure
 
 | Library                          | Latest Version | Language | Category | LoC  | Description                                                  |
 | -------------------------------- | -------------- | -------- | -------- | ---- | ------------------------------------------------------------ |
@@ -27,22 +21,4 @@ The idea behind this libraries is that they're easy to distribute and deploy bec
 | [rh_color.h](./inc/rh_color.h)   | 0.0.1          | C        | graphics | 159  | [read more](./doc/rh_color.md) - Common macro of color depth |
 | [rh_math.hpp](./inc/rh_math.hpp) | 0.0.1          | C++      | math     | 70   | [read more]() - mathematics function                         |
 |                                  |                |          |          |      |                                                              |
-
-All libraries was developed by RandleH under the MIT license. 
-
-
-
-
-<p align="center">
-<img src="./profile/profile1.JPEG" width="270" height="320" border="10">
- </p>
-
-
-
-
-People say I am so crazy, a total trouble maker in life. I humbly accept that.  
-
-
-
-
 
